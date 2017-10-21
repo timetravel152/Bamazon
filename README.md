@@ -10,4 +10,4 @@ Screenshots
 
 Below are some screenshots that show the app works yay! 
 
-
+The customer can then choose a product using its ID and then enter a quantity to buy. 
